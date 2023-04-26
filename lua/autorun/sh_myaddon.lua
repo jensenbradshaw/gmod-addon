@@ -1,0 +1,2 @@
+--
+MYADDON_DISPLAYMESSAGE = "Hello there."
